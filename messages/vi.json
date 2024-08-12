@@ -1,0 +1,11 @@
+{
+  "HomePage": {
+    "title": "xin chào"
+  },
+    "SecondPage":{
+    "title": "đây là trang thứ 2"
+  },
+    "ThirdPage":{
+    "title": "đây là trang thứ 3"
+  }
+}
